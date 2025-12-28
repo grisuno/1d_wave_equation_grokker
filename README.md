@@ -84,7 +84,7 @@ Our method opens the door to **composable physical AI**: pre-grokked laws (Maxwe
 
 ```bash
 # Train base model and test zero-shot transfer
-python3 onedwave.py
+python3 app.py
 ```
 
 ## Citation
