@@ -1,4 +1,4 @@
-# # **Structural Transfer for Wave Dynamics: Zero-Shot Algorithmic Expansion in 1D Wave Propagation**
+# **Structural Transfer for Wave Dynamics: Zero-Shot Algorithmic Expansion in 1D Wave Propagation**
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
