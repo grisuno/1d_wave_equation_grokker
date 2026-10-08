@@ -6,4 +6,10 @@
 
 ## External Imports
 
-- `app.py` -> copy, math, numpy, os, torch, torch.nn, torch.nn.functional
+- `app.py` -> `copy`
+- `app.py` -> `math`
+- `app.py` -> `numpy`
+- `app.py` -> `os`
+- `app.py` -> `torch`
+- `app.py` -> `torch.nn`
+- `app.py` -> `torch.nn.functional`
